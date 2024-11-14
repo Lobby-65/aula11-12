@@ -1,0 +1,24 @@
+2024-11-14T12:33:58.307Z [info] Iniciando no ambiente production
+2024-11-14T12:33:58.310Z [info] Servidor pronto na porta 8080
+2024-11-14T12:34:30.451Z [debug] Requisição GET na rota /
+2024-11-14T12:34:34.468Z [debug] Requisição GET na rota /produto
+2024-11-14T12:34:39.201Z [debug] Requisição GET na rota /api/produtos/8
+2024-11-14T12:35:46.547Z [info] Iniciando no ambiente production
+2024-11-14T12:35:46.551Z [info] Servidor pronto na porta 8080
+2024-11-14T12:35:47.953Z [debug] Requisição POST na rota /api/produtos
+2024-11-14T12:36:36.174Z [info] Iniciando no ambiente production
+2024-11-14T12:36:36.178Z [info] Servidor pronto na porta 8080
+2024-11-14T12:36:41.306Z [debug] Requisição POST na rota /api/produtos
+2024-11-14T12:44:08.161Z [info] Iniciando no ambiente development
+2024-11-14T12:44:08.164Z [info] Servidor pronto na porta 8080
+2024-11-14T12:44:13.332Z [debug] Requisição GET na rota /produto
+2024-11-14T12:44:54.981Z [debug] Requisição POST na rota /api/produtos
+2024-11-14T12:44:59.374Z [debug] Requisição GET na rota /
+2024-11-14T12:45:00.855Z [debug] Requisição GET na rota /produto
+2024-11-14T12:45:03.546Z [debug] Requisição GET na rota /produtos
+2024-11-14T12:45:07.372Z [debug] Requisição GET na rota /api/produtos/8
+2024-11-14T12:45:13.194Z [debug] Requisição GET na rota /api/produtos/1
+2024-11-14T12:45:18.690Z [debug] Requisição GET na rota /api/produtos
+2024-11-14T13:22:34.482Z [info] Iniciando no ambiente development
+2024-11-14T13:22:34.486Z [info] Servidor pronto na porta 8080
+2024-11-14T13:22:38.538Z [debug] Requisição GET na rota /api/produtos
